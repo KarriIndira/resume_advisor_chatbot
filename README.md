@@ -26,11 +26,13 @@ dotenv, requests
 ### ⚙️ Installation
 #### Clone or Download the Project
 
-git clone https://github.com/yourusername/resume_advisor_chatbot.git
+git clone https://github.com/Karriindira/resume_advisor_chatbot.git
 cd resume_advisor_chatbot
 #### Set up Virtual Environment (Optional but Recommended)
 python -m venv venv
+
 source venv/bin/activate  # Linux/macOS
+
 venv\Scripts\activate     # Windows
 #### Install Dependencies
 pip install -r requirements.txt
